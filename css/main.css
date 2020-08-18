@@ -2195,7 +2195,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-about {
-    padding-top: 16.2rem;
+    padding-top: 9rem;
     padding-bottom: 9rem;
     background-color: #1E8DBA;
     color: #010507;
@@ -2364,8 +2364,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-services {
-    padding-top: 16.2rem;
-    padding-bottom: 13.2rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
     background-color: #FFFFFF;
     color: #757575;
     position: relative;
@@ -2726,8 +2726,8 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-clients {
-    padding-top: 16.2rem;
-    padding-bottom: 16.8rem;
+    padding-top: 9rem;
+    padding-bottom: 9rem;
     background-color: #e6e6e6;
     color: #757575;
     position: relative;
@@ -3086,7 +3086,7 @@ html.no-csstransitions .home-content__main {
 .contact-secondary::before {
     content: "";
     display: block;
-    width: 35%;
+    width: 100%;
     position: absolute;
     position: absolute;
     top: 0;
@@ -3100,7 +3100,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .contact-secondary .cinfo {
-    margin-bottom: 4.8rem;
+    margin-bottom: 2rem;
 }
 
 .contact-social {
@@ -3341,7 +3341,7 @@ footer a:hover, footer a:focus, footer a:active {
 }
 
 footer .row {
-    max-width: 980px;
+    max-width: 100%;
 }
 
 
