@@ -1,4 +1,9 @@
 @charset "UTF-8";
+@font-face { font-family: OpenSans; src: url('assets/fonts/Open_Sans/OpenSans-Regular.ttf'); } 
+@font-face { font-family: OpenSans; font-weight: bold; src: url('assets/fonts/Open_Sans/OpenSans-Bold.ttf');}
+@font-face { font-family: Poppins; src: url('assets/fonts/Poppins/Poppins-Black.ttf');}
+@font-face { font-family: Poppins; font-weight: bold; src: url('assets/fonts/Poppins/Poppins-Bold.ttf');}
+
 
 :root {
   --blue: #007bff;
