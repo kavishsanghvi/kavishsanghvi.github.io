@@ -9754,6 +9754,16 @@ h3.global-title {
   display: inline-block;
   line-height: 1; }
 
+h3.reach-out-title {
+  font-size: 45px;
+  color: var(--title-color);
+  margin-bottom: 40px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 2px solid var(--primary-color);
+  display: inline-block;
+  line-height: 1; }
+
 h3.global-white {
   color: #fff; }
 
