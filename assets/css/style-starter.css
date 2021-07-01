@@ -5,6 +5,7 @@
 @font-face { font-family: Poppins; font-weight: bold; src: url('assets/fonts/Poppins/Poppins-Bold.ttf');}
 
 
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9753,6 +9754,16 @@ h3.global-title {
   display: inline-block;
   line-height: 1; }
 
+h3.reach-out-title {
+  font-size: 45px;
+  color: var(--title-color);
+  margin-bottom: 40px;
+  text-align: center;
+  font-weight: 600;
+  border-bottom: 2px solid var(--primary-color);
+  display: inline-block;
+  line-height: 1; }
+
 h3.global-white {
   color: #fff; }
 
@@ -9843,7 +9854,7 @@ h3.global-white {
 .w3l-main-banner .banner-view {
   background: url(../images/mainslide1.jpg) no-repeat right;
   background-size: cover;
-  min-height: 540px;
+  min-height: 700px;
   position: relative;
   z-index: 0;
   display: grid;
@@ -9894,7 +9905,9 @@ h3.global-white {
     font-size: 45px;
     line-height: 55px; }
   .w3l-main-banner .banner-view {
-    min-height: 420px; }
+    min-height: 700px; 
+    margin-top: 50%;
+    }
   .w3l-main-banner .banner-top-inner-page {
     min-height: 120px; } }
 
